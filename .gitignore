@@ -1,0 +1,8 @@
+.env
+__pycache__/
+env/
+.DS_Store
+db.sqlite3
+.vscode/*
+node_modules/
+secrets.txt
