@@ -5,3 +5,4 @@ env/
 .vscode/*
 node_modules/
 secrets.txt
+stolen/
