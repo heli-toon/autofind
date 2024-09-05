@@ -1,0 +1,8 @@
+pythondotenv
+django
+djangorestframework-simplejwt
+django-cors-headers
+django-rest-framework 
+djangorestframework
+pillow 
+PyJWT 
