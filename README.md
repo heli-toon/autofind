@@ -1,8 +1,8 @@
 # AutoFind
+AutoFind is a web application designed to connect car owners with trusted mechanics in an area. This application is very useful during vehicle emergencies. With a simple search functionality, users can find and compare mechanics based on location, rating, and services offered.
 
 ## Mechanic Search & Car Rental
 
-AutoFind is a web application designed to connect car owners with trusted mechanics in an area. This application is very useful during vehicle emergencies. With a simple search functionality, users can find and compare mechanics based on location, rating, and services offered.
 
 ### Features
 
