@@ -22,10 +22,10 @@ AutoFind is a web application designed to connect car owners with trusted mechan
 3. *Get Found*: Get discovered by car owners in your area
 
 ### Technologies Used
-- *Backend*: Django, Python
-- *Frontend*: React, JavaScript
+- *Backend*: Django, Django Rest Framework,Python
+- *Frontend*: React, Bootstrap, JavaScript
 - *Database*: SQLite
-- *Mapping*: OpenStreetMap
+- *Maps*: OpenStreetMap
 
 ### Contributing
 
